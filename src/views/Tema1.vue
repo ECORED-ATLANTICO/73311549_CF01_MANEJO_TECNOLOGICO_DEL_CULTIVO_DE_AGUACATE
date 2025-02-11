@@ -93,7 +93,7 @@
           .row.justify-content-center.align-items-center.px-lg-4.px-md-1
             .col-xl-6
               h5 Inflorescencias
-              p Las flores están agrupadas en inflorescencias de tallo largo, que en número hasta de 10 crecen en las axilas, presentando grupos integrados que contienen hasta 450 flores, que pueden madurar en el transcurso de seis meses, de acuerdo a la temperatura y la variedad. Cada árbol puede llegar a producir hasta un millón de flores y solo entre el 0.01% el 1% se transforma en fruto, por la abscisión de numerosas flores y frutos pequeños en desarrollo. A mayor floración menor porcentaje de cuajado (Corpoica, 2008, p. 19).
+              p Las flores están agrupadas en inflorescencias de tallo largo, que en número hasta de 10 crecen en las axilas, presentando grupos integrados que contienen hasta 450 flores, que pueden madurar en el transcurso de seis meses, de acuerdo a la temperatura y la variedad. Cada árbol puede llegar a producir hasta un millón de flores y solo entre el 0.01 % el 1 % se transforma en fruto, por la abscisión de numerosas flores y frutos pequeños en desarrollo. A mayor floración menor porcentaje de cuajado (Corpoica, 2008, p. 19).
    
               
             .col-xl-6.mb-0.mb-md-4.col-md-6
@@ -280,7 +280,7 @@
 
         .titulo-sexto.color-acento-contenido(data-aos="zoom-in")
           h5 Tabla 2. 
-          span Rangos clasificación climática de <i>Holdridge</i>
+          span Rangos y clasificación climática de <i>Holdridge</i>
 
         .tabla-b.tbl.tbl-c.mb-4(data-aos="fade-left")
           table
@@ -529,7 +529,7 @@
 
         .tabla-b.tbl.tbl-c.mb-5
           table
-            caption Fuente:  Sena (2024).
+            caption Fuente:  Wikipedia.
             thead 
               tr
                 th
@@ -622,7 +622,7 @@
                 img.img-72-(src='@/assets/curso/temas/tema1/img-22.png' alt='AvatarTop')
               .tarjeta.tarjeta--azul.fnd-7
                 .py-3.pe-5
-                  p.mb-0 <b>Colombia</b> registra un crecimiento del 63 % al aumentar la producción de 114 mil toneladas en el año 1996 a 2.5 millones de toneladas en el 2022; este último año con un crecimiento importante de 12.5% respecto al inmediatamente anterior. Resulta sorprendente que Colombia siendo el segundo productor a nivel mundial no exporte aguacate, sino que figura como importador, especialmente por compras realizadas a sus dos vecinos: Venezuela y Ecuador.
+                  p.mb-0 <b>Colombia</b> registra un crecimiento del 63 % al aumentar la producción de 114 mil toneladas en el año 1996 a 2.5 millones de toneladas en el 2022; este último año con un crecimiento importante de 12.5 % respecto al inmediatamente anterior. Resulta sorprendente que Colombia siendo el segundo productor a nivel mundial no exporte aguacate, sino que figura como importador, especialmente por compras realizadas a sus dos vecinos: Venezuela y Ecuador.
           .col-lg-6.tg-b
             .tarjeta-avatar-b.tgs.mb-5
               .tarjeta-avatar-b__img
@@ -636,13 +636,13 @@
                 img.img-72(src='@/assets/curso/temas/tema1/img-24.png' alt='AvatarTop')
               .tarjeta.tarjeta--azul.fnd-7
                 .py-3.px-2
-                  p.mb-0 <b>Peru</b>, otro proveedor de importancia de la fruta a nivel mundial fue el tercero en crecimiento de la producción con un aumento en toneladas del 9.65 %.
+                  p.mb-0 <b>Perú</b>, otro proveedor de importancia de la fruta a nivel mundial fue el tercero en crecimiento de la producción con un aumento en toneladas del 9.65 %.
 
         .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
           .col-lg-10
             .row.justify-content-center.align-items-center.mb-4
               .col-lg-9
-                p Estos cuatro países representan alrededor del 60 % de la producción mundial de aguacate. En 2022, México fue el principal productor, con un 28.2 % de la producción mundial, seguido de Colombia con un 12.1%, Perú con un 9.7 % y República Dominicana con un 8.2 %
+                p Estos cuatro países representan alrededor del 60 % de la producción mundial de aguacate. En 2022, México fue el principal productor, con un 28.2 % de la producción mundial, seguido de Colombia con un 12.1 %, Perú con un 9.7 % y República Dominicana con un 8.2 %
                 p Por lo anterior, resulta importante analizar el comportamiento histórico de la producción de aguacate en los principales países productores y algunos competidores futuros de Colombia en el mercado mundial de esta fruta.
               .col-lg-3.col-md-6
                 figure
@@ -654,9 +654,9 @@
                 h4.mb-0 Distribución geográfica del aguacate.
             .row.justify-content-center.align-items-center.mb-5
               .col-lg-8
-                p Actualmente se cultiva en más de 60 países, casi todos los países de clima cálido y templado, aunque sus mayores cultivos están en los países México, Chile, República Dominicana, Indonesia, Perú, Colombia, Brasil y Estados Unidos. Estos países aportan más del 60% de la producción mundial. El área cosechada en aguacate corresponde al 4.7% del área mundial cosechada en otras frutas tropicales. La producción mundial de esta fruta ha mostrado un crecimiento en la última década concentrada en América latina y el Caribe.
+                p Actualmente se cultiva en más de 60 países, casi todos los países de clima cálido y templado, aunque sus mayores cultivos están en los países México, Chile, República Dominicana, Indonesia, Perú, Colombia, Brasil y Estados Unidos. Estos países aportan más del 60 % de la producción mundial. El área cosechada en aguacate corresponde al 4.7 % del área mundial cosechada en otras frutas tropicales. La producción mundial de esta fruta ha mostrado un crecimiento en la última década concentrada en América latina y el Caribe.
 
-                p En Colombia el área sembrada en aguacate está concentrada en los departamentos de Antioquia especialmente en el oriente antioqueño, en el 2023 fue el principal exportador de aguacate con una participación de 41,4% , Los departamentos de Tolima,  Caldas, Santander, Bolívar, Cesar, Valle del Cauca, y Quindío, representan el 86% del total del área sembrada de aguacate en el país.
+                p En Colombia el área sembrada en aguacate está concentrada en los departamentos de Antioquia especialmente en el oriente antioqueño, en el 2023 fue el principal exportador de aguacate con una participación de 41,4 % , Los departamentos de Tolima,  Caldas, Santander, Bolívar, Cesar, Valle del Cauca, y Quindío, representan el 86 % del total del área sembrada de aguacate en el país.
               .col-lg-4.col-md-6
                 figure
                   img(src='@/assets/curso/temas/tema1/img-26.png')

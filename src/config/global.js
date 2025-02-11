@@ -83,7 +83,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/prueba.pdf',
+        download: 'downloads/CF01_270401006_DU.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -108,14 +108,13 @@ export default {
       tema: 'Manejo tecnológico del cultivo de aguacate.',
       referencia: 'Asociado SENA',
       tipo: 'Video',
-      link:
-        'https://www.youtube.com/watch?v=sV11J7gUxN4&list=PLSWxIMlhdBOdXxkP1Vb79VUgukPmYPu34&index=1',
+      link: 'https://youtu.be/sV11J7gUxN4?si=uSjrKrAB1NfIcPjb',
     },
     {
       tema: 'Manual técnico cultivo de aguacate.',
       referencia: 'Mini agricultura.',
       tipo: 'PDF',
-      descarga: '/downloads/Paquete Tecnologico Aguacate.pdf',
+      descarga: '/downloads/paquete_tecnologico_aguacate.pdf',
     },
   ],
   glosario: [
@@ -238,7 +237,7 @@ export default {
             'Centro para el Desarrollo Agroecológico y Agroindustrial Sabanalarga -  Regional Atlántico',
         },
         {
-          nombre: 'Jorge Leonardo Camacho Pardo',
+          nombre: 'Álvaro Araújo Angarita',
           cargo: 'Desarrollador <em> full stack</em>',
           centro:
             'Centro para el Desarrollo Agroecológico y Agroindustrial Sabanalarga -  Regional Atlántico',

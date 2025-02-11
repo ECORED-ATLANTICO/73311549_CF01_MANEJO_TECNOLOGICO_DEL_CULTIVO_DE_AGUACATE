@@ -154,7 +154,7 @@
               .col-auto.pe-2.mt-2
                 img(src="@/assets/curso/temas/tema2/check.svg")
               .col.px-0
-                p.mb-0 El desarrollo de las plántulas (patrones) está relacionado directamente con la cantidad de luz que se le suministre en vivero, a continuación, el cultivo se yemas de aguacate.
+                p.mb-0 El desarrollo de las plántulas (patrones) está relacionado directamente con la cantidad de luz que se le suministre en vivero, a continuación, el cultivo de yemas de aguacate.
       .col-lg-3.col-md-6
         figure
           img.mb-4(src='@/assets/curso/temas/tema2/img-16.png')
