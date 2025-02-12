@@ -2,7 +2,7 @@
 
 ## **Enlace GitHubPages**
 
-[https://ecoredsena-atlantico.github.io/73311549_CF01_MANEJO_TECNOLOGICO_DEL_CULTIVO_DE_AGUACATE/#/](https://ecoredsena-atlantico.github.io/73311549_CF01_MANEJO_TECNOLOGICO_DEL_CULTIVO_DE_AGUACATE/#/)
+[[https://ecoredsena-atlantico.github.io/73311549_CF01_MANEJO_TECNOLOGICO_DEL_CULTIVO_DE_AGUACATE/#/](https://ecoredsena-atlantico.github.io/73311549_CF01_MANEJO_TECNOLOGICO_DEL_CULTIVO_DE_AGUACATE/#/)](https://ecored-atlantico.github.io/73311549_CF01_MANEJO_TECNOLOGICO_DEL_CULTIVO_DE_AGUACATE/#/)
 
 #
 
