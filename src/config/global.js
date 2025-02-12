@@ -206,8 +206,7 @@ export default {
         {
           nombre: 'Miguel de Jesús Paredes Maestre',
           cargo: 'Responsable de línea de producción',
-          centro:
-            'Centro para el Desarrollo Agroecológico y Agroindustrial Sabanalarga - Regional Atlántico',
+          centro: 'Centro de Comercio y Servicios – Regional Atlántico',
         },
       ],
     },
@@ -222,8 +221,7 @@ export default {
         {
           nombre: 'Fabian Cuartas Donado',
           cargo: 'Evaluador instruccional',
-          centro:
-            'Centro para el Desarrollo Agroecológico y Agroindustrial Sabanalarga - Regional Atlántico',
+          centro: 'Centro de Comercio y Servicios – Regional Atlántico',
         },
       ],
     },
@@ -232,21 +230,18 @@ export default {
       autores: [
         {
           nombre: 'Carmen Alicia Martinez Torres',
-          cargo: 'Diseñor <i>web</i>',
-          centro:
-            'Centro para el Desarrollo Agroecológico y Agroindustrial Sabanalarga -  Regional Atlántico',
+          cargo: 'Diseñador <i>web</i>',
+          centro: 'Centro de Comercio y Servicios – Regional Atlántico',
         },
         {
-          nombre: 'Álvaro Araújo Angarita',
-          cargo: 'Desarrollador <em> full stack</em>',
-          centro:
-            'Centro para el Desarrollo Agroecológico y Agroindustrial Sabanalarga -  Regional Atlántico',
+          nombre: 'Álvaro Guillermo Araújo Angarita',
+          cargo: 'Desarrollador <em>full stack</em>',
+          centro: 'Centro de Comercio y Servicios – Regional Atlántico',
         },
         {
           nombre: 'Alexander Rafael Acosta Bedoya',
           cargo: 'Animador y productor audiovisual',
-          centro:
-            'Centro para el Desarrollo Agroecológico y Agroindustrial Sabanalarga -  Regional Atlántico',
+          centro: 'Centro de Comercio y Servicios – Regional Atlántico',
         },
       ],
     },
@@ -254,28 +249,24 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Carolina Coca Salazar',
-          cargo: 'Evaluador para contenidos inclusivos y accesibles',
-          centro:
-            'Centro para el Desarrollo Agroecológico y Agroindustrial Sabanalarga -  Regional Atlántico',
+          nombre: 'Maria Fernando Morales Angulo',
+          cargo: 'Evaluador de contenidos inclusivos y accesibles',
+          centro: 'Centro de Comercio y Servicios – Regional Atlántico',
         },
         {
           nombre: 'Luz Karime Amaya Cabra',
-          cargo: 'Evaluador para contenidos inclusivos y accesibles',
-          centro:
-            'Centro para el Desarrollo Agroecológico y Agroindustrial Sabanalarga -  Regional Atlántico',
+          cargo: 'Evaluador de contenidos inclusivos y accesibles',
+          centro: 'Centro de Comercio y Servicios – Regional Atlántico',
         },
         {
-          nombre: 'Juan Carlos Cardona Acosta',
+          nombre: 'Jonathan Adie Villafañe',
           cargo: 'Validador y vinculador de recursos digitales',
-          centro:
-            'Centro para el Desarrollo Agroecológico y Agroindustrial Sabanalarga -  Regional Atlántico',
+          centro: 'Centro de Comercio y Servicios – Regional Atlántico',
         },
         {
           nombre: 'Jairo Luis Valencia Ebratt',
           cargo: 'Validador y vinculador de recursos digitales ',
-          centro:
-            'Centro para el Desarrollo Agroecológico y Agroindustrial Sabanalarga -  Regional Atlántico',
+          centro: 'Centro de Comercio y Servicios – Regional Atlántico',
         },
       ],
     },
