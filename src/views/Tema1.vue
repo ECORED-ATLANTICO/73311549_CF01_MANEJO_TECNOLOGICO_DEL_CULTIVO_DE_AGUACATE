@@ -12,7 +12,7 @@
         :style="{'background-image': `url(${require('@/assets/curso/temas/tema1/img-1.png')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 El cultivo de aguacate (Persea americana) ha ganado popularidad a nivel mundial debido a su demanda creciente y sus múltiples beneficios nutricionales. Se desarrolla mejor en climas cálidos y templados, con temperaturas entre 15 y 30 °C, y prefiere suelos bien drenados, ricos en materia orgánica, con un pH entre 6 y 6.5. Existen varias variedades, siendo las más conocidas el Hass, Fuerte y Bacon, cada una con características específicas en sabor, textura y época de cosecha.
+        p.mb-0 El cultivo de aguacate (<em>Persea americana</em>) ha ganado popularidad a nivel mundial debido a su demanda creciente y sus múltiples beneficios nutricionales. Se desarrolla mejor en climas cálidos y templados, con temperaturas entre 15 y 30 °C, y prefiere suelos bien drenados, ricos en materia orgánica, con un pH entre 6 y 6.5. Existen varias variedades, siendo las más conocidas el Hass, Fuerte y Bacon, cada una con características específicas en sabor, textura y época de cosecha.
 
     Separador
 
@@ -35,7 +35,7 @@
         .row.justify-content-center.align-items-center.mb-4(data-aos="fade-right")
           .col-lg-10.order-2.order-lg-1            
             p El aguacate (<em>Persea americana Mill</em>), es originario de la zona montañosa situada al occidente de México y Guatemala, su distribución natural va hasta Perú. Varios siglos antes de la llegada de los europeos se cultivaban desde Río Bravo (norte de México) hasta Chile, la ruta en la cual se han encontrado fósiles hasta de 12 mil años de antigüedad.
-            p La palabra aguacate proviene de la lengua azteca "náhuatl", pero esta fruta recibe también otros nombres según las regiones donde se cultiva, entre ellos se tiene: palta, cura, avocado o abacate.
+            p La palabra aguacate proviene de la lengua azteca <em>"náhuatl"</em>, pero esta fruta recibe también otros nombres según las regiones donde se cultiva, entre ellos se tiene: palta, cura, avocado o abacate.
 
           .col-lg-2.col-md-6.mb-4.order-1.order-lg-2
             figure
@@ -51,11 +51,11 @@
             figure
               img(src='@/assets/curso/temas/tema1/img-4.png')
           .col-lg-4.fnd-3.p-4
-            p.mb-0 <b>Clase:</b> Dicotiledónea
-            p.mb-0 <b>Orden:</b> Ranales
-            p.mb-0 <b>Familia:</b> Lauraceae
-            p.mb-0 <b>Género:</b> Persea
-            p.mb-0 <b>Especie:</b> Persea americana Miller
+            p.mb-0 <b>Clase:</b> <em>Dicotiledónea</em>
+            p.mb-0 <b>Orden:</b> <em>Ranales</em>
+            p.mb-0 <b>Familia:</b> <em>Lauraceae</em>
+            p.mb-0 <b>Género:</b> <em>Persea</em>
+            p.mb-0 <b>Especie:</b> <em>Persea americana Miller</em>
           .col-lg-4.fnd-3-1.p-4
             p.mb-0 El género Persea está formado por 150 especies, distribuidas en las regiones tropicales y subtropicales, especialmente en Asia, Islas Canarias y América donde se concentran 80 especies” (Corpoica, 2008, p.19).
 
@@ -172,14 +172,14 @@
               figcaption Fuente: Sena (2024).
 
           .tarjeta.fnd-3-2.p-4(x="71.9%" y="34.6%" numero="1")
-            p.mb-0 <b>Hojas del aguacate guatemalteco:</b> Sus hojas son grandes y verdes oscuras, sin olor. Los tallos de los brotes jóvenes son rojizos. Los frutos, de color verde opaco a rojo o morado, son medianos (125-250 gramos), con cáscara gruesa y rugosa, lo que facilita su manejo poscosecha y resistencia a plagas.
+            p.mb-0 <b>Hojas del aguacate guatemalteco:</b> sus hojas son grandes y verdes oscuras, sin olor. Los tallos de los brotes jóvenes son rojizos. Los frutos, de color verde opaco a rojo o morado, son medianos (125-250 gramos), con cáscara gruesa y rugosa, lo que facilita su manejo poscosecha y resistencia a plagas.
             h4.t-b 01
           .tarjeta.fnd-3-2.p-4(x="39.4%" y="37%" numero="2")
             p.mb-0 <b>Contenido de la raza guatemalteca:</b> esta raza tiene un contenido medio de aceites del 15 % y pulpa fibrosa en algunas variedades. Las semillas son grandes y se adhieren bien a la pulpa. El tiempo de floración a cosecha es de aproximadamente 15 meses. Variedades incluyen <i>Hass, Reed, Edranol</i> y <i>Pinkerton</i>.
             h4.t-b 02
           .tarjeta.fnd-3-2.p-4(x="29.7%" y="73.5%" numero="3")
             p.mb-0 <b>Variedad Hass</b>
-            p.mb-0 Descripción: Fruta de forma oval.
+            p.mb-0 Descripción: fruta de forma oval.
             p.mb-0 Semilla de pequeña a mediana, gran sabor.
             p.mb-0 Tamaño: entre 141,5 a 339,6 gramos.
             p.mb-0 Apariencia: suave, piel gruesa pero plegable.
@@ -651,7 +651,7 @@
               .col-auto.pe-2
                 img(src="@/assets/curso/temas/tema1/img-2.png", alt="Icono")
               .col.px-0
-                h4.mb-0 Distribución geográfica del aguacate.
+                h4.mb-0 Distribución geográfica del aguacate
             .row.justify-content-center.align-items-center.mb-5
               .col-lg-8
                 p Actualmente se cultiva en más de 60 países, casi todos los países de clima cálido y templado, aunque sus mayores cultivos están en los países México, Chile, República Dominicana, Indonesia, Perú, Colombia, Brasil y Estados Unidos. Estos países aportan más del 60 % de la producción mundial. El área cosechada en aguacate corresponde al 4.7 % del área mundial cosechada en otras frutas tropicales. La producción mundial de esta fruta ha mostrado un crecimiento en la última década concentrada en América latina y el Caribe.
